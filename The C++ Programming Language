@@ -4,6 +4,22 @@ Contents
 
 Preface
 
+Describe language feature and standard-library component with Rationale, Specification and Examples.
+Basic building blocks of elegant, correct, maintainable, and efficient C++ code.
 
+Type-rich, lightweight abstractions. Suitable for software infrastructures.
+C++ rewards the programmer who takes the time to master techniques for writing software code.
+C++ is a language for someone who takes the task of programming seriously.
 
+Stability -> code write today will still work a couple decades from now.
+
+1. Know what latest (2011) ISO C++ standard has to offer.
+2. What C++ provides beyond C.
+3. Closer to machine (flexible? compile-time checking or better performance)
+
+New in C++ 11 VS. 98.
+A machine model suitable for modern computers with lots of concurrency.
+C++'s design aims to be flexible and general.
+
+[1] Principles and Practice Using C++.
 
