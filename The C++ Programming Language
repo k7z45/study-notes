@@ -4,6 +4,10 @@ Contents
 
 Preface
 
+Part I: Introductory Material
+
+Preface
+
 Describe language feature and standard-library component with Rationale, Specification and Examples.
 Basic building blocks of elegant, correct, maintainable, and efficient C++ code.
 
@@ -23,3 +27,40 @@ C++'s design aims to be flexible and general.
 
 [1] Principles and Practice Using C++.
 
+Part I: Introductory Material
+1. Notes to the Reader
+Try not to get bogged down in details.
+Chap 1 guide to the book and a bit of C++ background.
+Chap 2-5 quick introduction
+Chap 6-15 built-in types and the basic facilities
+Chap 16-29 abstraction mechanisms and their use for oo and generic programming
+Chap 30-44 overview of standard library and compatibility
+
+Don't feel obliged to read chap 1 carefully.
+Chap 2 model of memory, computation and error handling.
+Chap 3 Abstraction mechanisms presents language features.
+Chap 4 Containers and algorithms.
+Chap 5 Concurrency and utilities.
+A taste of C++.
+
+Part II Basic facilities
+Modularity - as supported by namespaces, source files and exception handling - is also discussed:
+Chap 6 Types and declarations.
+Chap 7 Pointers, Arrays, and References.
+Chap 8 Structures, Unions, and Enumerations.
+Chap 9 Statements.
+Chap 10 Expressions.
+Chap 11 Select operations.
+Chap 12 Functions.
+Chap 13 Exception handling. (with RAII)
+Chap 14 Namespaces.
+Chap 15 Source files and programs.
+
+Java's resource management and exception handling are not integrated.
+
+Part III Abstraction mechanisms
+Classes, class hierarchies and templates.
+Chap 16 Classes.
+
+
+[1] Caesar Augustus (BC 63 – AD 14), was the first Roman emperor
