@@ -61,6 +61,52 @@ Java's resource management and exception handling are not integrated.
 Part III Abstraction mechanisms
 Classes, class hierarchies and templates.
 Chap 16 Classes.
+Chap 17 Construction, cleanup, copy, and move.
+Chap 18 Operator overloading.
+Chap 19 Special operators.
+
+Classes:
+Chap 20 Derived classes.
+Chap 21 Class hierarchies.
+Chap 22 Run-Time type information.
+Parameterization:
+Chap 23 Templates: class templates, function templates and template aliases.
+Chap 24 Generic programming.
+Chap 25 Specialization.
+Chap 26 Instantiation.
+Chap 27 Templates and hierarchies.
+Chap 28 Metaprogramming.
+Chap 29 A matric design.
+
+The standard library
+Chap 30 Standard-Library overview.
+Chap 31 STL containers.
+Chap 32 STL algorithms.
+Chap 33 STL iterators.
+Chap 34 Memory and resources.
+Chap 35 Utilities.
+Chap 36 Strings.
+Chap 37 Regular expressions.
+Chap 38 I/O streams.
+Chap 39 Locales.
+Chap 40 Numerics.
+Chap 41 Concurrency.
+Chap 42 Threads and tasks.
+Chap 43 The C standard library.
+Chap 44 Compatibility.
+
+Examples and references
+Bjarne's background in compilers, foundation libraries and simulations.
+An understanding of design and programming techniques together with an appreciation of application domains.
+
+The design of C++
+Direct mappins of built-in operations and types to hardware.
+Affordable and flexible abstraction mechanisms.
+Systems programming means writing code that directly uses hardware resources, has serious resource constraints, or closely interacts with code that does.
+
+[1] The design and evolution of C++ [Stroustrup, 1994]
+
+Programming style
 
 
 [1] Caesar Augustus (BC 63 – AD 14), was the first Roman emperor
