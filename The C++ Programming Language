@@ -43,6 +43,8 @@ Chap 4 Containers and algorithms.
 Chap 5 Concurrency and utilities.
 A taste of C++.
 
+[1] Caesar Augustus (BC 63 – AD 14), was the first Roman emperor
+
 Part II Basic facilities
 Modularity - as supported by namespaces, source files and exception handling - is also discussed:
 Chap 6 Types and declarations.
@@ -107,6 +109,16 @@ Systems programming means writing code that directly uses hardware resources, ha
 [1] The design and evolution of C++ [Stroustrup, 1994]
 
 Programming style
+1. Procedural programming
+   focused on processing and design of suitable data structures.
+2. Data abstraction
+   focused on design of interfaces.
+3. Object-oriented programming
+   focused on the design, implementation, and use of class hierarchies.
+4. Generic programming
+   focused on the design, implementation, and use of general algorithms.
+   
+Type Checking
 
+Emphasizing on the support of effective combinations of those.
 
-[1] Caesar Augustus (BC 63 – AD 14), was the first Roman emperor
