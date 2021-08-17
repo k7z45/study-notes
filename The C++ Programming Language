@@ -119,6 +119,11 @@ Programming style
    focused on the design, implementation, and use of general algorithms.
    
 Type Checking
+C Compatibility
+Knowing C is not a prerequisite for learning C++.
+Every program in Kernighan and Richie, The C programming language, second edition, is a C++ program.
+
+Language, libraries and systems.
 
 Emphasizing on the support of effective combinations of those.
 
