@@ -127,3 +127,15 @@ Language, libraries and systems.
 
 Emphasizing on the support of effective combinations of those.
 
+Learning C++
+Focus on mastering the native and natural styles for that language - not on understanding every little detail of every language feature.
+Writing program is essential; understanding a programming language is not just an intellectual exercise. Practical application of ideas is necessary.
+Use languae features and library facilities in concert to support good programming styles in the context of sound designs.
+
+Focus on fundamental concepts (such as type safety, resource management, and invariants) and programming techniques (such as resource management using scoped
+objects and the user of iterators in algorithms) and not get lost in language-technical details.
+
+Suggestions for C++ programmers
+
+History
+
