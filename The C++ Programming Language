@@ -148,3 +148,26 @@ To write a good program takes intelligence, taste and patience.
 You are not going to get it right the first time. Experiment!
 
 Chap 2 A tour of C++: The basics
+source file 1 -> compile -> object file 1  |
+source file 2 -> compile -> object file 2 -> link -> executable file
+An executable is created for a specific hardware/system combination; it is not portable, say from a Mac to a Windows PC.
+Portability of C++ programs usually means portability of source code. Souce code can compile and run on a variety of systems.
+The ISO C++ standard defines two kinds of entities:
+Core language features
+Standard-library components
+A declaration is a statement that introduces a name into the program.
+An object is some memory that holds a value of some type.
+A char variable is of the natural size to hold a character on a given machine.
+Types, variable and arithmetic
+We use auto where we don't have a specific reason to mention the type explicitly. 
+The definition is in a large scope where we want to make the type clearly visible to readers of our code.
+We want to be explicit about a variable's range or precision. (e.g., double rather than float).
+Constants
+const I promise not to change this value. Specify interfaces.
+constexpr to be evaluated at compile time. Sepcify constants. Allow placement of data in memory where it is unlikely to be corrupted, and for performance.
+const int dmv = 17;
+constexpr double max1 = 1.4 * square(dmv); // OK is square(17) is a constant expression.
+For a function to be usable in a constant expression, will be evaluated by the compiler, it must be defined constexpr.
+To be constexpr, a function must be rather simple: just a return-statement computing a value.
+Pointers, arrays and loops
+[] means array of and * means pointer to.
