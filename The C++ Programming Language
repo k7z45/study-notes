@@ -172,3 +172,4 @@ To be constexpr, a function must be rather simple: just a return-statement compu
 Pointers, arrays and loops
 [] means array of and * means pointer to.
 A tour of C++: Abastraction mechanisms
+Abstraction and resource management
