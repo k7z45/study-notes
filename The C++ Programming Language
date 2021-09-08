@@ -171,5 +171,12 @@ For a function to be usable in a constant expression, will be evaluated by the c
 To be constexpr, a function must be rather simple: just a return-statement computing a value.
 Pointers, arrays and loops
 [] means array of and * means pointer to.
-A tour of C++: Abastraction mechanisms
+Chap 3 A tour of C++: Abastraction mechanisms
 Abstraction and resource management
+object-oriented programming and generic programming
+classes are often what libraries offer.
+vector and string resource handles
+FUnctions defined in a class are inlined by default.
+Resource acquisition is initialization
+std::initializer_list
+3.2.2 Abstract types
