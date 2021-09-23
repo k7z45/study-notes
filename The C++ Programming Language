@@ -180,3 +180,5 @@ FUnctions defined in a class are inlined by default.
 Resource acquisition is initialization
 std::initializer_list
 3.2.2 Abstract types
+3.2.3 Virtual functions
+
