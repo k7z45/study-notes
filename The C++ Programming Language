@@ -185,3 +185,5 @@ std::initializer_list
 3.3.1
 Copying Containers
 To allocate new elements first, and then delete old elem, to ensure we don't end up in a deleted state.
+3.3.3
+Resource Management
