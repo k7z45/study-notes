@@ -4,3 +4,22 @@ Author: Michael Spivak
 1. Where are we going? An opportunity for the reader and the author to get acquainted
 Calculi.
 Jaunt
+
+2. We pack the essentials, before embarking on our journey.
+y1 - y0 = m(x1 - x0)
+m = (y1 - y0)/(x1 - x0)
+b = y0 - mx0
+  = y0 - (y1 - y0)/(x1 - x0) * x0
+  = y0 - (x0y1 - x0y0)/(x1 - x0)
+  = (y0x1 - x0y1)/(x1 - x0)
+y = mx + b
+  = (y1 - y0)/(x1 - x0)x + (y0x1 - x0y1)/(x1 - x0)
+  
+m = (y1 - y0)/(x1 - x0)
+y - y0 = m(x - x0)
+y - y0 = (y1 - y0)(x - x0)/(x1 - x0)
+       = (xy1 - xy0 -x0y1)/(x1 - x0)
+x1y -x0y - x1y0        
+y - y1 = (y1 - y0)/(x1 - x0) (x - x1)
+       = (xy1 - xy0 -x1y1 + x1y0)/(x1 - x0)
+x1y -x0y + x0y1       
