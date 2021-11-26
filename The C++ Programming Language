@@ -187,3 +187,8 @@ Copying Containers
 To allocate new elements first, and then delete old elem, to ensure we don't end up in a deleted state.
 3.3.3
 Resource Management
+
+Chap 4
+Containers and Algorithms
+Why waste time learning when ignorance is instantaneous?
+4.3.3 I/O of User-Defined Types
