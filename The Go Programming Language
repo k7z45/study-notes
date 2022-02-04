@@ -1,0 +1,1 @@
+The function main runs in a goroutine and the go statement creates additional goroutines.
